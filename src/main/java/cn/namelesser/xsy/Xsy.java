@@ -41,8 +41,10 @@ public class Xsy {
             String s = EntityUtils.toString(entity, "utf8");
             Document document = Jsoup.parse(s);
             Elements elements = document.select(cssQuery);
+            System.out.println(s);
 
 
+            System.out.println(elements.text()+"123");
             String[] split = elements.first().text().split(":");
             response.close();
             return Integer.parseInt(split[0]);

@@ -19,7 +19,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
 
-
+        System.out.println("hello wrod!");
         ArrayList<Account> accounts = ReadAccount.getAccounts();
         System.out.println(accounts);
         ArrayList<User> users = new ArrayList<User>();
