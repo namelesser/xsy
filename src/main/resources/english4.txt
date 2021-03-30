@@ -214,8 +214,6 @@ http://xsy.qqhru.edu.cn/book/book144/uyu522checkbox.php
 UnitID=7&SectionID=2&SisterID=16&TestID=2.16&KidID=1&ItemID=74&Checkbox_0=1&Checkbox_2=1&Checkbox_4=1&Checkbox_6=1
 http://xsy.qqhru.edu.cn/book/book144/uyu34checkbox.php
 UnitID=7&SectionID=3&SisterID=4&TestID=3.4&KidID=1&ItemID=235&Checkbox_0=1&Checkbox_2=1&Checkbox_3=1&Checkbox_4=1&Checkbox_5=1&Checkbox_7=1&Checkbox_8=1&Checkbox_9=1&Checkbox_11=1&Checkbox_13=1&Checkbox_15=1&Checkbox_16=1&Checkbox_18=1&Checkbox_19=1
-http://xsy.qqhru.edu.cn/book/book144/uyu29text.php
-UnitID=7&SectionID=3&SisterID=10&TestID=3.10&KidID=1&ItemID=416&Text_0=Reference%3A+The+lighter.+Because+it+is+dangerous+to+start+a+fire+on+a+raft,+and+it's+also+not+important+for+them+to+cook+a+hot+meal+on+a+raft+when+they+are+trying+to+survive.&Text_1=Reference%3A+A+blanket.+There+are+several+reasons%3A+It+can+keep+them+warm;+it+can+dry+their+body+if+they+get+wet;+and+it+can+protect+them+from+the+sun.&Text_2=Reference%3A+The+hand+mirror.
 http://xsy.qqhru.edu.cn/book/book144/uyu34checkbox.php
 UnitID=7&SectionID=3&SisterID=11&TestID=3.11&KidID=1&ItemID=417&Checkbox_0=1&Checkbox_1=1&Checkbox_3=1&Checkbox_5=1&Checkbox_6=1&Checkbox_7=1&Checkbox_8=1
 http://xsy.qqhru.edu.cn/book/book144/uyu41mc.php
