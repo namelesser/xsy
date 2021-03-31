@@ -44,7 +44,7 @@ public class Xsy {
             System.out.println(s);
 
 
-            System.out.println(elements.text()+"123");
+
             String[] split = elements.first().text().split(":");
             response.close();
             return Integer.parseInt(split[0]);
@@ -127,6 +127,7 @@ public class Xsy {
                 String s1 = EntityUtils.toString(entity1, "utf8");
                 Document document = Jsoup.parse(s1);
                 Elements elements = document.select("#BookClassDIV > table > tbody > tr > td:nth-child(2) > ul > li > a");
+                System.out.println(user.getAccount()+elements.text());
 
 
                 String testId = null;
